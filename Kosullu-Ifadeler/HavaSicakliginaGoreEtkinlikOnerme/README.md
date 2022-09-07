@@ -1,1 +1,1 @@
-
+# HavaSicakliginaGoreEtkinlikOnerme
