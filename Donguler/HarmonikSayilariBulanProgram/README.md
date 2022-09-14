@@ -7,14 +7,12 @@
 
 ***
 ## Senaryo 1
-  - Ussu alinacak sayi = 2;
-  - Us olacak sayi = 3;
-  - 2 ussu 3 = 8;  
+  - Girilen sayi = 2;
+  - Harmonik sayi = 1.5;
 
 ## Senaryo 2
-  - Ussu alinacak sayi = 3;
-  - Us olacak sayi = 4;
-  - 3 ussu 4 = 81;  
+  - Girilen sayi = 5;
+  - Harmonik sayi = 2.2833;
 
 ## Source
 [patika.dev](https://www.patika.dev/tr)
