@@ -18,6 +18,11 @@
   - Cekilecek miktar: 2500;
   - Yapilacak islem: 3;
   - Bakiye: 4000;
+ 
+## Senaryo 3
+  - Bakiye = 1500;
+  - Yapilacak islem: 4;
+  - Iyi gunler...
   
 ## Source
 [patika.dev](https://www.patika.dev/tr)
